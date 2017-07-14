@@ -93,6 +93,7 @@ p, a, span, li, .progress-bar {
     opacity: 0.6;
     padding: 20px;
 }
+
 .carousel-indicators li {
     border: 1px solid #cc2121;
 }
