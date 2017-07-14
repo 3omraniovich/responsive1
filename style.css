@@ -53,7 +53,7 @@ p, a, span, li, .progress-bar {
     color: #fdfdfd;
 }
 .dropdown-menu > li > a{
-    transition: all 1s ease-in-out;
+    transition: all 0.5s ease-in-out;
     padding: 9px 20px;
 }
 .dropdown-menu > li > a:hover,
