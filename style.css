@@ -429,6 +429,15 @@ textarea.input-lg, select[multiple].input-lg {
     text-align: center;
     transition: opacity 0.5s ease-in-out;
 }
+.footer .social-list li {
+    display: inline-block;
+    float: left;
+    margin: 30px 17.5px 30px 0;
+    width: 40px;
+    opacity: 0.7;
+    cursor: pointer;
+    transition: opacity 0.5s ease-in-out;
+}
 .footer .three-columns .lis1 li:first-of-type {
     background-color: #f1c40f;
 }
@@ -461,15 +470,6 @@ textarea.input-lg, select[multiple].input-lg {
 }
 .footer .three-columns li:hover {
     opacity: 1;
-}
-.footer .social-list li {
-    display: inline-block;
-    float: left;
-    margin: 30px 17.5px 30px 0;
-    width: 40px;
-    opacity: 0.7;
-    cursor: pointer;
-    transition: opacity 0.5s ease-in-out;
 }
 .footer .social-list li:hover {
     opacity: 1
@@ -517,7 +517,20 @@ textarea.input-lg, select[multiple].input-lg {
     }
     .footer .works {
         text-align: center;
-}
+    }
+    .testimonials .carousel-indicators li {
+        width: 70px;
+        height: 70px;
+    }
+    .our-skills .info {
+        margin-top: 30px;
+    }
+    .footer .social-list li {
+        margin-right: 10.5px;
+    }
+    .footer .three-columns li {
+        width: 89px;
+    }
 }
 
 /* end media query fixes */
