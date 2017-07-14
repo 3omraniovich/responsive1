@@ -405,7 +405,7 @@ textarea.input-lg, select[multiple].input-lg {
     background-color: #333;
     color: #FFF;
     padding-top: 30px;
-    padding-bottom: 0px;
+    padding-bottom: 1px;
 }
 .footer h2 {
     color: #ecf0f1;
@@ -495,7 +495,7 @@ textarea.input-lg, select[multiple].input-lg {
 }
 .foot {
     background-color: #666;
-    padding: 15px 0;
+    padding: 10px 0 1px 0;
     margin-top: 20px;
 }
 
